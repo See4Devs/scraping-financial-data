@@ -1,0 +1,2922 @@
+{
+  "input": {
+    "url": "https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch"
+  },
+  "name": "Apple Inc. (AAPL)",
+  "company_id": "AAPL",
+  "entity_type": "EQUITY",
+  "summary": "NasdaqGS - Nasdaq Real Time Price  • USD",
+  "stock_ticker": "AAPL",
+  "currency": "USD",
+  "earnings_date": "2025-01-30 - 2025-02-03",
+  "exchange": "up",
+  "closing_price": 228.69,
+  "previous_close": 225,
+  "open": 225.2,
+  "bid": "213.84",
+  "ask": "230.00",
+  "day_range": "225.18 - 228.76",
+  "week_range": "164.08 - 237.49",
+  "volume": 9469704,
+  "avg_volume": 47774587,
+  "market_cap": 3456832110592,
+  "beta": 1.24,
+  "pe_ratio": 37.613487,
+  "eps": 6.08,
+  "dividend_yield": "0.98 (0.44%)",
+  "ex_dividend_date": "2024-11-08",
+  "target_est": 244.47739,
+  "url": "https://finance.yahoo.com/quote/AAPL/?p=AAPL&.tsrc=fin-srch",
+  "people_also_watch": [
+    {
+      "symbol": "AMZN",
+      "last_price": 203.68,
+      "perc_change": "+0.53%"
+    },
+    {
+      "symbol": "TSLA",
+      "last_price": 346.92,
+      "perc_change": "+8.17%"
+    },
+    {
+      "symbol": "GOOG",
+      "last_price": 175.27,
+      "perc_change": "+0.79%"
+    },
+    {
+      "symbol": "META",
+      "last_price": 557.05,
+      "perc_change": "+0.54%"
+    },
+    {
+      "symbol": "MSFT",
+      "last_price": 417.63,
+      "perc_change": "+0.63%"
+    },
+    {
+      "symbol": "NFLX",
+      "last_price": 840.18,
+      "perc_change": "+1.97%"
+    },
+    {
+      "symbol": "NVDA",
+      "last_price": 140.32,
+      "perc_change": "-1.17%"
+    },
+    {
+      "symbol": "AMD",
+      "last_price": 139.9,
+      "perc_change": "+3.70%"
+    },
+    {
+      "symbol": "DIS",
+      "last_price": 115.24,
+      "perc_change": "+0.13%"
+    },
+    {
+      "symbol": "INTC",
+      "last_price": 24.52,
+      "perc_change": "+0.68%"
+    },
+    {
+      "symbol": "JPM",
+      "last_price": 243.75,
+      "perc_change": "-0.64%"
+    },
+    {
+      "symbol": "BA",
+      "last_price": 140.14,
+      "perc_change": "-0.04%"
+    },
+    {
+      "symbol": "BABA",
+      "last_price": 88.18,
+      "perc_change": "-0.46%"
+    },
+    {
+      "symbol": "F",
+      "last_price": 11.18,
+      "perc_change": "+1.54%"
+    },
+    {
+      "symbol": "BAC",
+      "last_price": 46.8,
+      "perc_change": "+0.10%"
+    },
+    {
+      "symbol": "KO",
+      "last_price": 61.92,
+      "perc_change": "+0.29%"
+    }
+  ],
+  "similar": [
+    {
+      "symbol": "AAPL",
+      "last_price": 228.69,
+      "perc_change": "+1.64%"
+    },
+    {
+      "symbol": "SONY",
+      "last_price": 19.05,
+      "perc_change": "+3.18%"
+    },
+    {
+      "symbol": "SONO",
+      "last_price": 12.35,
+      "perc_change": "-5.36%"
+    },
+    {
+      "symbol": "005930.KS",
+      "perc_change": "+5.98%"
+    },
+    {
+      "symbol": "1810.HK",
+      "last_price": 28.8,
+      "perc_change": "+2.86%"
+    },
+    {
+      "symbol": "GPRO",
+      "last_price": 1.215,
+      "perc_change": "+0.41%"
+    },
+    {
+      "symbol": "KOSS",
+      "last_price": 6.88,
+      "perc_change": "-1.08%"
+    },
+    {
+      "symbol": "SMSN.IL",
+      "perc_change": "+2.59%"
+    },
+    {
+      "symbol": "2498.TW",
+      "last_price": 42.85,
+      "perc_change": "-0.23%"
+    },
+    {
+      "symbol": "SSNLF",
+      "last_price": 40.6
+    },
+    {
+      "symbol": "2439.TW",
+      "last_price": 106.5,
+      "perc_change": "+0.47%"
+    }
+  ],
+  "risk_score": 16.8,
+  "recommendation_rating": 1.89,
+  "analyst_price_target": {
+    "low": 184,
+    "current": 228.69,
+    "average": 244.48,
+    "high": 300
+  },
+  "company_profile_address": "One Apple Park Way Cupertino, CA 95014 United States",
+  "company_profile_country": "US",
+  "company_profile_website": "https://www.apple.com",
+  "company_profile_phone": "(408) 996-1010",
+  "company_profile_sector": "Technology",
+  "company_profile_industry": "Consumer Electronics",
+  "company_profile_employees": 164000,
+  "company_profile_description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple TV, Apple Watch, Beats products, and HomePod. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV+, which offers exclusive original content; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
+  "valuation_measures": {
+    "as_of": "11/15/2024",
+    "market_cap": "3.40T",
+    "enterprise_value": "3.44T",
+    "trailing_p/e": 37.01,
+    "forward_p/e": 30.3,
+    "peg_ratio_5yr_expected": 2.33,
+    "price/sales_ttm": 8.87,
+    "price/book_mrq": 59.72,
+    "enterprise_value/revenue": 8.8,
+    "enterprise_value/ebitda": 25.56
+  },
+  "financial_highlights": {
+    "profit_margin": "23.97%",
+    "return_on_assets_ttm": "21.46%",
+    "return_on_equity_ttm": "157.41%",
+    "revenue_ttm": "391.03B",
+    "net_income_avi_to_common_ttm": "93.74B",
+    "diluted_eps_ttm": "6.08",
+    "total_cash_mrq": "65.17B",
+    "total_debt/equity_mrq": "209.06%",
+    "levered_free_cash_flow_ttm": "110.85B"
+  },
+  "financials": [
+    {
+      "Breakdown": "Basic Average Shares",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 15343783000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 16701272
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 16215963
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 15744231
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": null
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Operating Income As Reported",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 123216000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 108949000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 119437000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 114301000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 123216000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income From Continuing Operation Net Minority Interest",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Effect Of Unusual Items",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 0
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 0
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 0
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 0
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "Breakdown": "Reconciled Depreciation",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 11445000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 11284000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 11104000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 11519000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 11445000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted EPS",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 6.08
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 5.61
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 6.11
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 6.13
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": null
+        }
+      ]
+    },
+    {
+      "Breakdown": "Normalized EBITDA",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 134661000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 123136000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 130541000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 125820000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 134661000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 391035000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 365817000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 394328000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 383285000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 391035000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Including Noncontrolling Interests",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Basic EPS",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 6.11
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 5.67
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 6.15
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 6.16
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": null
+        }
+      ]
+    },
+    {
+      "Breakdown": "Selling General And Administration",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 26097000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 21973000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 25094000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 24932000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 26097000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Other Non Operating Income Expenses",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 269000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 60000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": -334000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": -565000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 269000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Research And Development",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 31370000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 21914000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 26251000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 29915000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 31370000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Cost Of Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 210352000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 212981000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 223546000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 214137000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 210352000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted NI Availto Com Stockholders",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "EBIT",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 123216000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 111852000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 119437000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 114301000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 123216000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Expense",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 57467000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 43887000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 51345000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 54847000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 57467000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Continuous Operations",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Normalized Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Common Stockholders",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Rate For Calcs",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 0.240912
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 0.13
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 0.16
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 0.15
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 0.24
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Expenses",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 267819000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 256868000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 274891000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 268984000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 267819000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted Average Shares",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 15408095000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 16864919
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 16325819
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 15812547
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": null
+        }
+      ]
+    },
+    {
+      "Breakdown": "Reconciled Cost Of Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 210352000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 212981000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 223546000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 214137000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 210352000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Pretax Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 123485000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 109207000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 119103000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 113736000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 123485000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Gross Profit",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 180683000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 152836000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 170782000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 169148000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 180683000
+        }
+      ]
+    },
+    {
+      "Breakdown": "EBITDA",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 134661000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 123136000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 130541000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 125820000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 134661000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 123216000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 108949000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 119437000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 114301000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 123216000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Other Income Expense",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 269000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 60000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": -334000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": -565000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 269000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income From Continuing And Discontinued Operation",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 93736000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 94680000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 99803000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 96995000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 93736000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 391035000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 365817000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 394328000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 383285000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 391035000
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Provision",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": 29749000000
+        },
+        {
+          "column_name": "9/30/2021",
+          "value": 14527000
+        },
+        {
+          "column_name": "9/30/2022",
+          "value": 19300000
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": 16741000
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": 29749000
+        }
+      ]
+    }
+  ],
+  "financials_quarterly": [
+    {
+      "Breakdown": "Basic Average Shares",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "15343783000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "15599434"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "15509763"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "15405856"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "15287521"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "15171990"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Operating Income As Reported",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "123216000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "26969000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "40373000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "27900000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "25352000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "29591000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income From Continuing Operation Net Minority Interest",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Effect Of Unusual Items",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": null
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": null
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": null
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": null
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": null
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": null
+        }
+      ]
+    },
+    {
+      "Breakdown": "Reconciled Depreciation",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "11445000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "2653000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "2848000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "2836000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "2850000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "2911000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted EPS",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "6.08"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "1.46"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "2.18"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "1.53"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "1.4"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "0.97"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Normalized EBITDA",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "134661000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "30653000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "43221000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "30736000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "28202000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "32502000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "391035000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "89498000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "119575000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "90753000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "85777000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "94930000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Including Noncontrolling Interests",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Basic EPS",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "6.11"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "1.47"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "2.19"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "1.53"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "1.4"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "0.97"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Selling General And Administration",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "26097000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "6151000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "6786000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "6468000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "6320000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "6523000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Other Non Operating Income Expenses",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "269000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "47000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "-50000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "158000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "142000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "19000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Research And Development",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "31370000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "7307000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "7696000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "7903000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "8006000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "7765000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Cost Of Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "210352000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "49071000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "64720000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "48482000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "46099000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "51051000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted NI Availto Com Stockholders",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "EBIT",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "123216000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "28000000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "40373000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "27900000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "25352000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "29591000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Expense",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "57467000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "13458000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "14482000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "14371000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "14326000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14288000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Continuous Operations",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Normalized Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income Common Stockholders",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Rate For Calcs",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "0.240912"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "0.15"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "0.16"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "0.16"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "0.16"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "0.21"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Expenses",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "267819000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "62529000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "79202000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "62853000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "60425000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "65339000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Diluted Average Shares",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "15408095000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "15672400"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "15576641"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "15464709"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "15348175"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "15242853"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Reconciled Cost Of Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "210352000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "49071000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "64720000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "48482000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "46099000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "51051000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Pretax Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "123485000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "26998000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "40323000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "28058000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "25494000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "29610000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Gross Profit",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "180683000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "40427000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "54855000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "42271000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "39678000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "43879000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "EBITDA",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "134661000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "30653000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "43221000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "30736000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "28202000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "32502000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Operating Income",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "123216000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "26969000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "40373000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "27900000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "25352000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "29591000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Net Income From Continuing And Discontinued Operation",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "93736000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "22956000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "33916000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "23636000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "21448000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14736000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Other Income Expense",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "269000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "47000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "-50000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "158000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "142000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "19000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Total Revenue",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "391035000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "89498000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "119575000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "90753000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "85777000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "94930000"
+        }
+      ]
+    },
+    {
+      "Breakdown": "Tax Provision",
+      "value": [
+        {
+          "column_name": "TTM",
+          "value": "29749000000"
+        },
+        {
+          "column_name": "9/30/2023",
+          "value": "4042000"
+        },
+        {
+          "column_name": "12/31/2023",
+          "value": "6407000"
+        },
+        {
+          "column_name": "3/31/2024",
+          "value": "4422000"
+        },
+        {
+          "column_name": "6/30/2024",
+          "value": "4046000"
+        },
+        {
+          "column_name": "9/30/2024",
+          "value": "14874000"
+        }
+      ]
+    }
+  ],
+  "earnings_estimate": {
+    "no_of_analysts": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "26"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "26"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "39"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "36"
+      }
+    ],
+    "avg_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.35"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.68"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.39"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.27"
+      }
+    ],
+    "low_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.19"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.51"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "6.71"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "7.39"
+      }
+    ],
+    "high_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.5"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.82"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.85"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "9.35"
+      }
+    ],
+    "year_ago_eps": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.18"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.53"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "6.08"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "7.39"
+      }
+    ]
+  },
+  "revenue_estimate": {
+    "no_of_analysts": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "27"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "27"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "39"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "39"
+      }
+    ],
+    "avg_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "124.4B"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "96.52B"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "414.57B"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "448.08B"
+      }
+    ],
+    "low_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "119.56B"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "88.55B"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "391.18B"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "417.78B"
+      }
+    ],
+    "high_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "129.89B"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "101.57B"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "431.78B"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "479B"
+      }
+    ],
+    "year_ago_sales": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "119.58B"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "90.75B"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "391.04B"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "414.57B"
+      }
+    ],
+    "sales_growth": null
+  },
+  "earnings_history": {
+    "eps_est": [
+      {
+        "column_name": "12/31/2023",
+        "value": "2.11"
+      },
+      {
+        "column_name": "3/31/2024",
+        "value": "1.5"
+      },
+      {
+        "column_name": "6/30/2024",
+        "value": "1.34"
+      },
+      {
+        "column_name": "9/30/2024",
+        "value": "0.95"
+      }
+    ],
+    "eps_actual": [
+      {
+        "column_name": "12/31/2023",
+        "value": "2.18"
+      },
+      {
+        "column_name": "3/31/2024",
+        "value": "1.53"
+      },
+      {
+        "column_name": "6/30/2024",
+        "value": "1.4"
+      },
+      {
+        "column_name": "9/30/2024",
+        "value": "0.97"
+      }
+    ],
+    "difference": [
+      {
+        "column_name": "12/31/2023",
+        "value": "0.07"
+      },
+      {
+        "column_name": "3/31/2024",
+        "value": "0.03"
+      },
+      {
+        "column_name": "6/30/2024",
+        "value": "0.06"
+      },
+      {
+        "column_name": "9/30/2024",
+        "value": "0.02"
+      }
+    ],
+    "suprise_perc": null
+  },
+  "eps_trend": {
+    "current_estimate": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.35"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.68"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.39"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.27"
+      }
+    ],
+    "7_days_ago": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.35"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.68"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.39"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.26"
+      }
+    ],
+    "30_days_ago": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.38"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.71"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.41"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.33"
+      }
+    ],
+    "60_days_ago": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.39"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.7"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.41"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.36"
+      }
+    ],
+    "90_days_ago": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "2.38"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "1.7"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "7.42"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "8.38"
+      }
+    ]
+  },
+  "eps_revisions": {
+    "up_last_7_days": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "--"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "3"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "2"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "6"
+      }
+    ],
+    "up_last_30_days": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "4"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "5"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "10"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "6"
+      }
+    ],
+    "down_last_7_days": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "1"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "9"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "1"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "5"
+      }
+    ],
+    "down_last_30_days": [
+      {
+        "column_name": "Current Qtr. (Dec 2024)",
+        "value": "15"
+      },
+      {
+        "column_name": "Next Qtr. (Mar 2025)",
+        "value": "9"
+      },
+      {
+        "column_name": "Current Year (2025)",
+        "value": "21"
+      },
+      {
+        "column_name": "Next Year (2026)",
+        "value": "5"
+      }
+    ]
+  },
+  "growth_estimates": {
+    "current_qtr": [
+      {
+        "column_name": "AAPL",
+        "value": "8.04%"
+      },
+      {
+        "column_name": "Industry",
+        "value": "--"
+      },
+      {
+        "column_name": "Sector",
+        "value": "--"
+      },
+      {
+        "column_name": "S&P 500",
+        "value": "5.00%"
+      }
+    ],
+    "next_qtr": [
+      {
+        "column_name": "AAPL",
+        "value": "9.99%"
+      },
+      {
+        "column_name": "Industry",
+        "value": "--"
+      },
+      {
+        "column_name": "Sector",
+        "value": "--"
+      },
+      {
+        "column_name": "S&P 500",
+        "value": "12.00%"
+      }
+    ],
+    "current_year": [
+      {
+        "column_name": "AAPL",
+        "value": "9.55%"
+      },
+      {
+        "column_name": "Industry",
+        "value": "--"
+      },
+      {
+        "column_name": "Sector",
+        "value": "--"
+      },
+      {
+        "column_name": "S&P 500",
+        "value": "2.10%"
+      }
+    ],
+    "next_year": [
+      {
+        "column_name": "AAPL",
+        "value": "12.36%"
+      },
+      {
+        "column_name": "Industry",
+        "value": "--"
+      },
+      {
+        "column_name": "Sector",
+        "value": "--"
+      },
+      {
+        "column_name": "S&P 500",
+        "value": "12.20%"
+      }
+    ],
+    "next_5_years": null,
+    "past_5_years": null
+  },
+  "top_analysts": [
+    {
+      "analyst": "Wedbush",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "70"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "73"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "90"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Outperform"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "300"
+        },
+        {
+          "column_name": "Date",
+          "value": "9/11/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Baird",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "70"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "74"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "97"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Outperform"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "240"
+        },
+        {
+          "column_name": "Date",
+          "value": "7/26/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Needham",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "69"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "75"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "97"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Buy"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "260"
+        },
+        {
+          "column_name": "Date",
+          "value": "11/2/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Canaccord Genuity",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "68"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "69"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "96"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Buy"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "215"
+        },
+        {
+          "column_name": "Date",
+          "value": "5/4/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Morgan Stanley",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "67"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "70"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "93"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Overweight"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "273"
+        },
+        {
+          "column_name": "Date",
+          "value": "9/11/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "UBS",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "67"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "66"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "90"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Neutral"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "236"
+        },
+        {
+          "column_name": "Date",
+          "value": "9/4/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Piper Sandler",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "66"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "71"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "84"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Neutral"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "225"
+        },
+        {
+          "column_name": "Date",
+          "value": "10/10/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Raymond James",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "66"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "72"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "69"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Outperform"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "250"
+        },
+        {
+          "column_name": "Date",
+          "value": "7/26/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "Tigress Financial",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "66"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "64"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "100"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Strong Buy"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "295"
+        },
+        {
+          "column_name": "Date",
+          "value": "8/28/2024"
+        }
+      ]
+    },
+    {
+      "analyst": "DA Davidson",
+      "value": [
+        {
+          "column_name": "Overall Score",
+          "value": "65"
+        },
+        {
+          "column_name": "Direction Score",
+          "value": "63"
+        },
+        {
+          "column_name": "Price Score",
+          "value": "98"
+        },
+        {
+          "column_name": "Latest Rating",
+          "value": "Buy"
+        },
+        {
+          "column_name": "Price Target",
+          "value": "230"
+        },
+        {
+          "column_name": "Date",
+          "value": "6/11/2024"
+        }
+      ]
+    }
+  ],
+  "upgrades_and_downgrades": [
+    {
+      "action": "Maintains",
+      "description": "Maxim Group: Hold to Hold",
+      "date": "11/1/2024"
+    },
+    {
+      "action": "Maintains",
+      "description": "Barclays: Underweight to Underweight",
+      "date": "11/1/2024"
+    },
+    {
+      "action": "Maintains",
+      "description": "Rosenblatt: Buy to Buy",
+      "date": "11/1/2024"
+    },
+    {
+      "action": "Reiterates",
+      "description": "Needham: Buy to Buy",
+      "date": "11/1/2024"
+    },
+    {
+      "action": "Downgrade",
+      "description": "Keybanc: Sector Weight to Underweight",
+      "date": "10/25/2024"
+    },
+    {
+      "action": "Reiterates",
+      "description": "Piper Sandler: Neutral to Neutral",
+      "date": "10/9/2024"
+    }
+  ],
+  "recent_news": [
+    {
+      "title": "Nvidia stock sinks on reports of Blackwell AI server issues ahead of earnings",
+      "source": "https://finance.yahoo.com/news/nvidia-stock-sinks-on-reports-of-blackwell-ai-server-issues-ahead-of-earnings-150924657.html",
+      "url": "https://finance.yahoo.com/news/nvidia-stock-sinks-on-reports-of-blackwell-ai-server-issues-ahead-of-earnings-150924657.html",
+      "post_time": "2024-11-18T15:09:24.000Z"
+    },
+    {
+      "title": "Warren Buffett Stocks: What's Inside Berkshire Hathaway's Portfolio?",
+      "source": "https://www.investors.com/research/warren-buffett-stocks-november-2024/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/m/ce2ffe06-f882-3e0d-8b97-fa77d137e8bb/warren-buffett-stocks-what-s.html",
+      "post_time": "2024-11-18T15:18:15.000Z"
+    },
+    {
+      "title": "Investors Heavily Search Apple Inc. (AAPL): Here is What You Need to Know",
+      "source": "https://finance.yahoo.com/news/investors-heavily-search-apple-inc-140015285.html",
+      "url": "https://finance.yahoo.com/news/investors-heavily-search-apple-inc-140015285.html",
+      "post_time": "2024-11-18T14:00:15.000Z"
+    },
+    {
+      "title": "Tata Electronics to acquire stake in Pegatron iPhone plant",
+      "source": "https://www.verdict.co.uk/tata-stake-pegatrons-iphone/",
+      "url": "https://finance.yahoo.com/news/tata-electronics-acquire-stake-pegatron-104705097.html",
+      "post_time": "2024-11-18T10:47:05.000Z"
+    },
+    {
+      "title": "Billionaire Warren Buffett Sold 67% of Berkshire's Stake in Apple and Is Piling Into a Beloved Consumer Brand Whose Stock Has Soared by 7,000% Since Its IPO",
+      "source": "https://www.fool.com/investing/2024/11/18/billionaire-warren-buffett-sold-67-berkshire-apple/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=550e6b66-5e88-4aab-8ecd-1f209b190db9",
+      "url": "https://finance.yahoo.com/news/billionaire-warren-buffett-sold-67-094100137.html",
+      "post_time": "2024-11-18T09:41:00.000Z"
+    },
+    {
+      "title": "Apple ups satellite investment stakes with latest Globalstar deal",
+      "source": "https://www.verdict.co.uk/apple-satellite-globalstar-investment/",
+      "url": "https://finance.yahoo.com/news/apple-ups-satellite-investment-stakes-083147858.html",
+      "post_time": "2024-11-18T08:31:47.000Z"
+    },
+    {
+      "title": "Exclusive-Foxconn tells India recruiters: Nix marital status in iPhone job ads",
+      "source": "https://ca.finance.yahoo.com/news/exclusive-foxconn-tells-india-recruiters-040208951.html",
+      "url": "https://finance.yahoo.com/news/exclusive-foxconn-tells-india-recruiters-040208951.html",
+      "post_time": "2024-11-18T04:02:08.000Z"
+    },
+    {
+      "title": "Could Buying Apple Today Set You Up for Life?",
+      "source": "https://www.fool.com/investing/2024/11/17/could-buying-apple-today-set-you-up-for-life/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=a00192a2-992f-4a28-9070-4e65f666c342",
+      "url": "https://finance.yahoo.com/news/could-buying-apple-today-set-200000377.html",
+      "post_time": "2024-11-17T20:00:00.000Z"
+    },
+    {
+      "title": "Analyst: Apple (AAPL)’s iPhone Sell-Throughs ‘Unlikely to Accelerate’ in December",
+      "source": "https://finance.yahoo.com/news/analyst-apple-aapl-iphone-sell-151320609.html",
+      "url": "https://finance.yahoo.com/news/analyst-apple-aapl-iphone-sell-151320609.html",
+      "post_time": "2024-11-17T15:13:20.000Z"
+    },
+    {
+      "title": "Tata seals deal with Pegatron for iPhone plant in India's Tamil Nadu, sources say",
+      "source": "https://finance.yahoo.com/news/tata-seals-deal-pegatron-iphone-072624056.html",
+      "url": "https://finance.yahoo.com/news/tata-seals-deal-pegatron-iphone-072624056.html",
+      "post_time": "2024-11-17T07:26:24.000Z"
+    },
+    {
+      "title": "China’s smartphone makers head upmarket in European push",
+      "source": "https://finance.yahoo.com/news/china-smartphone-makers-head-upmarket-050100710.html",
+      "url": "https://finance.yahoo.com/news/china-smartphone-makers-head-upmarket-050100710.html",
+      "post_time": "2024-11-17T05:01:00.000Z"
+    },
+    {
+      "title": "How To Earn $500 A Month From Apple Stock",
+      "source": "https://finance.yahoo.com/news/earn-500-month-apple-stock-150013649.html",
+      "url": "https://finance.yahoo.com/news/earn-500-month-apple-stock-150013649.html",
+      "post_time": "2024-11-16T15:00:13.000Z"
+    },
+    {
+      "title": "Nvidia, Meta, Apple, and Microsoft Could Help This Magnificent ETF Turn $250,000 Into $1 Million",
+      "source": "https://www.fool.com/investing/2024/11/16/nvidia-meta-microsoft-etf-turn-250000-to-1-million/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=36e83976-a60b-414a-9510-628f196cadf6",
+      "url": "https://finance.yahoo.com/news/nvidia-meta-apple-microsoft-could-102100460.html",
+      "post_time": "2024-11-16T10:21:00.000Z"
+    },
+    {
+      "title": "Prediction: This Warren Buffett Stock Will Outperform the Market Through 2030",
+      "source": "https://www.fool.com/investing/2024/11/16/prediction-this-warren-buffett-stock-will-outperfo/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=ad8afec4-f5de-4031-a065-7e427ce8235d",
+      "url": "https://finance.yahoo.com/news/prediction-warren-buffett-stock-outperform-100500571.html",
+      "post_time": "2024-11-16T10:05:00.000Z"
+    },
+    {
+      "title": "Meet the Stock-Split Stock That Soared by 11,210% Over the Past 15 Years. Now, It's Poised to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club by 2026",
+      "source": "https://www.fool.com/investing/2024/11/16/meet-the-stock-split-stock-that-soared-11210-over/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=b72f5898-1aec-4ce7-8fb8-83169790e955",
+      "url": "https://finance.yahoo.com/news/meet-stock-split-stock-soared-093200737.html",
+      "post_time": "2024-11-16T09:32:00.000Z"
+    },
+    {
+      "title": "Nvidia Has 65% of Its Portfolio Invested in 1 Brilliant Artificial Intelligence (AI) Stock",
+      "source": "https://www.fool.com/investing/2024/11/16/nvidia-65-portfolio-invest-in-1-brilliant-ai-stock/?source=eptyholnk0000202&utm_source=yahoo-host-full&utm_medium=feed&utm_campaign=article&referring_guid=a8d78aad-82e9-444a-ab1e-35e8faa22b71",
+      "url": "https://finance.yahoo.com/news/nvidia-65-portfolio-invested-1-085500325.html",
+      "post_time": "2024-11-16T08:55:00.000Z"
+    },
+    {
+      "title": "AST SpaceMobile Could Revolutionize Cellphone Satellite Service. But Can It Beat The Meme Stock Rap?",
+      "source": "https://www.investors.com/news/ast-spacemobile-asts-space-stocks-spacex-satellite-cell-phone-technology/?src=A00220&yptr=yahoo",
+      "url": "https://finance.yahoo.com/m/14945860-72f3-3215-8d1c-7926a81e8082/ast-spacemobile-could.html",
+      "post_time": "2024-11-15T20:30:18.000Z"
+    },
+    {
+      "title": "Apple Inc. (AAPL): Among the Best Metaverse Stocks To Buy According to Hedge Funds",
+      "source": "https://finance.yahoo.com/news/apple-inc-aapl-among-best-193746544.html",
+      "url": "https://finance.yahoo.com/news/apple-inc-aapl-among-best-193746544.html",
+      "post_time": "2024-11-15T19:37:46.000Z"
+    },
+    {
+      "title": "Apple, Gen Z on personal finance: Wealth",
+      "source": "https://finance.yahoo.com/video/apple-gen-z-personal-finance-191356442.html",
+      "url": "https://finance.yahoo.com/video/apple-gen-z-personal-finance-191356442.html",
+      "post_time": "2024-11-15T19:13:56.000Z"
+    },
+    {
+      "title": "Apple Removes Russian-Language RFE/RL App Following Pressure from Russian Authorities",
+      "source": "https://finance.yahoo.com/news/apple-removes-russian-language-rfe-185332612.html",
+      "url": "https://finance.yahoo.com/news/apple-removes-russian-language-rfe-185332612.html",
+      "post_time": "2024-11-15T18:53:32.000Z"
+    }
+  ],
+  "timestamp": "2024-11-18T15:45:48.670Z"
+}
