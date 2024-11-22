@@ -25,8 +25,13 @@ try:
     day_range = soup.find('fin-streamer', {'data-field': 'regularMarketDayRange'}).text.strip()
     week_52_range = soup.find('fin-streamer', {'data-field': 'fiftyTwoWeekRange'}).text.strip()
     market_cap = soup.find('fin-streamer', {'data-field': 'marketCap'}).text.strip()
-    pe_ratio = soup.find('fin-streamer', {'data-field': 'trailingPE'}).text.strip()
-    eps = soup.find('fin-streamer', {'data-field': 'trailingPE'}).text.strip()
+    # Extract PE Ratio (TTM)
+    pe_label = soup.find('span', class_='label', title='PE Ratio (TTM)')
+    pe_value = pe_label.find_next_sibling('span').find('fin-streamer').text.strip()
+
+    # Extract EPS (TTM)
+    eps_label = soup.find('span', class_='label', title='EPS (TTM)')
+    eps_value = eps_label.find_next_sibling('span').find('fin-streamer').text.strip()
 
     # Print the scraped details
     print("\n### Stock Price ###")
@@ -36,8 +41,8 @@ try:
     print(f"52 Week Range: {week_52_range}")
     print("\n### Company Details ###")
     print(f"Market Cap: {market_cap}")
-    print(f"PE Ratio (TTM): {pe_ratio}")
-    print(f"EPS (TTM): {eps}")
+    print(f"PE Ratio (TTM): {pe_value}")
+    print(f"EPS (TTM): {eps_value}")
 
 except AttributeError as e:
     print("Error while scraping data. Some fields may not be found.")
